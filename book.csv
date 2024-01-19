@@ -1,0 +1,16 @@
+bookid,title,author,publisher,edition,cost,category
+101,Matilda,Roald Dahl,Puffin Books,1988,16.99,Children's Fiction
+102,Brave New World,Aldous Huxley,Harper Collins,1932,15.99,Dystopian Fiction
+103,Emma,Jane Austen,Penguin Classics,2003,16,Classic Literature
+104,It,Stephen King,Viking Press,1986,19.99,Horror
+105,Dune,Frank Herbert,Ace Books,1965,9.99,Science Fiction
+106,Milkman,Anna Burns,Graywolf Press,2018,14.95,Historical Fiction
+107,1984,George Orwell,Penguin Books,1949,9.99,Dystopian Fiction
+108,Holes,Louis Sachar,"Farrar, Straus and Giroux",1998,8.99,Young Adult Fiction
+109,Jaws,Peter Benchley,Doubleday,1974,16.95,Thriller
+110,Grendel,John Gardner,Vintage Books,1971,15,Fantasy
+111,Choke,Chuck Palahniuk,Doubleday,2001,24.95,Satirical Fiction
+112,Hitch,Christoper Hitchens,Twelve,2007,16.99,Biography
+113,Ghost,Jason Reynolds,Caitlyn Dlouhy Books,2016,17.99,Young Adult Fiction
+114,Room,Emma Donoghue,"Little, Brown and Company",2010,17,Psychological Fiction
+115,Speak,Laurie Halse Anderson,"Farrar, Straus and Giroux",1999,9.99,Young Adult Fiction
